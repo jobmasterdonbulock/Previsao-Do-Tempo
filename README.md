@@ -29,3 +29,21 @@ A aplicação é útil para:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/weather-api-frontend.git
+
+   ## 📦 Requisitos
+
+- Navegador moderno (Chrome, Firefox, Edge, etc.)  
+- Conexão com a internet (para acessar a API de clima)
+
+## 🔐 Observações
+
+- É necessário possuir uma **chave de API** válida da plataforma de clima utilizada (ex: OpenWeatherMap).  
+- A chave deve ser inserida no arquivo JavaScript onde é feita a requisição.
+
+## 📸 Exemplo de Interface
+
+> Interface limpa e responsiva com ícones de clima e dados atualizados em tempo real.
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e compartilhar.
